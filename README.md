@@ -1,2 +1,3 @@
 # Tea Cozy
-A Codecademy off-site project.
+Welcome to the Codecademy **Tea Cozy** project!  
+This is a website for a fictional tea shop.
